@@ -1,0 +1,500 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "NOUNS",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What are the plural forms of the words ‘Deer, Fish and Sheep’?",
+          "options": [
+            "Deer, Sheep, Fish",
+            "Deer, Sheep and Fishes",
+            "Deers, Sheeps, Fishs",
+            "Both A and B"
+          ],
+          "answer": 0,
+          "explanation": "Deer and Sheep remain with the same spelling when they are changed from singular to plural. The plural forms of ‘Fish’ are both ‘Fish’ and ‘Fishes’. The most common plural form of ‘Fish’ is ‘Fish’. However, when we refer to more than one species of fish, we must use ‘fishes’. Example: The aquarium has many fishes. They ate three small fish today at lunch."
+        },
+        {
+          "questionNo": 2,
+          "question": "I wore a parrot-green dress on my birthday. Find the concrete noun in the sentence.",
+          "options": [
+            "A parrot-green",
+            "Dress",
+            "Birthday",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "Dress can be touched, seen, and felt, making it a concrete noun."
+        },
+        {
+          "questionNo": 3,
+          "question": "The meeting has been postponed to Thursday morning at my office. Find the Proper noun(s) and then the abstract noun(s) in the sentence above.",
+          "options": [
+            "The meeting, morning, office",
+            "Morning, meeting, office",
+            "Office, postponed, meeting",
+            "Thursday, morning, meeting"
+          ],
+          "answer": 3,
+          "explanation": "Thursday is a proper noun because it is the name given to a specific day of the week. Morning and Meeting cannot be perceived through one of the five senses in particular. Their effects can be seen."
+        },
+        {
+          "questionNo": 4,
+          "question": "A ………………….... of soldiers courageously handled the aftermath of the ambush.",
+          "options": ["army", "troop", "swarm", "flight"],
+          "answer": 1,
+          "explanation": "Though ‘Troop’ is the collective noun for soldiers, it is always used with a prepositional phrase like ‘of soldiers’. 'Army' always means a group of soldiers and does not need the specification ‘of soldiers’."
+        }
+      ]
+    },
+    {
+      "heading": "PRONOUNS",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "My teacher gifted me a box of chocolates. ‘Me’ in the sentence is an/a:",
+          "options": [
+            "Object pronoun",
+            "A type of personal pronoun",
+            "All of the above"
+          ],
+          "answer": 2,
+          "explanation": "Me is a personal pronoun that functions as an object pronoun. The other kind of personal pronoun is called a subject pronoun."
+        },
+        {
+          "questionNo": 6,
+          "question": "Identify what type of pronoun is the underlined word in the given sentence 'Roger went to their house for dinner.'",
+          "options": [
+            "Subject Pronoun",
+            "Object Pronoun",
+            "Possessive Pronoun",
+            "None of the above"
+          ],
+          "answer": 2,
+          "explanation": "‘Their’ indicates possession and is thus a possessive pronoun."
+        },
+        {
+          "questionNo": 7,
+          "question": "In which sentence is the reflexive pronoun used correctly?",
+          "options": [
+            "The cat groomed it’s self.",
+            "The cat groomed itself.",
+            "The cat groomed by himself.",
+            "The cat groomed him."
+          ],
+          "answer": 1,
+          "explanation": "The reflexive pronoun 'itself' correctly refers back to the subject 'The cat', indicating that the cat groomed itself."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank with the appropriate pronoun:\nThey taught ___ how to swim.",
+          "options": [
+            "them",
+            "themselves",
+            "Both A and B",
+            "None of the above"
+          ],
+          "answer": 0,
+          "explanation": "'Them' is the correct personal pronoun here because it serves as the object of the verb 'taught.' 'Themselves' is a reflexive pronoun, but it is not suitable in this sentence."
+        },
+        {
+          "questionNo": 9,
+          "question": "An object pronoun commits an action in a sentence.",
+          "options": [
+            "True",
+            "False",
+            "Depends on the sentence construction",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "Object pronouns always receive an action and do not commit an action. For example, in 'She gave me a notebook,' 'me' is the object pronoun receiving the action."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the sentence with the correct usage of compound objects.",
+          "options": [
+            "The teacher assigned homework to Rafel and I.",
+            "The teacher assigned homework to Rafel and me.",
+            "The teacher assigned homework to me and Rafel.",
+            "The teacher assigned homework to I and Rafel."
+          ],
+          "answer": 1,
+          "explanation": "When forming a compound object with 'me' and another person, 'me' should always come last in the compound object. Therefore, 'The teacher assigned homework to Rafel and me' is correct."
+        }
+      ]
+    },
+    {
+      "heading": "ADJECTIVES",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Select the adjectives from the given options:\nThe historic city of Rome boasts magnificent architecture and rich cultural heritage from the ancient Roman era.",
+          "options": [
+            "historic; magnificent, city, heritage, era, architecture",
+            "historic, magnificent, rich, cultural, ancient, Roman",
+            "architecture; heritage, era, boasts, rich, cultural",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "Adjectives describe nouns and provide more information about them. 'Historic,' 'magnificent,' 'rich,' 'cultural,' 'ancient,' and 'Roman' are all adjectives describing different aspects of the city and its features."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blanks:\nWe saw ____________________ boats.",
+          "options": [
+            "three/sturdy/blue/sailing",
+            "three/blue/sturdy/sailing",
+            "blue/three/sailing/sturdy",
+            "sturdy/sailing/blue/three"
+          ],
+          "answer": 0,
+          "explanation": "According to the DOSPQA-SCOMP rule, the order should be: Determiner (Three) → Opinion (sturdy) → Color (blue) → Purpose (sailing)."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct sentence which is rearranged from the following words with the correct order of adjectives - video game new friend my has an exciting",
+          "options": [
+            "An exciting, new video game has my cousin.",
+            "An exciting, new video game my cousin has.",
+            "My cousin has an exciting, new video game.",
+            "An exciting, new video game has a cousin my."
+          ],
+          "answer": 2,
+          "explanation": "The correct order of adjectives is: Determiner (My) → Opinion (exciting) → Age (new) → Purpose (video). Hence, 'My cousin has an exciting, new video game.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Complete the sentence with the correct order of adjectives:\nSara admired ___________________ painting in the gallery.",
+          "options": [
+            "an/old/beautiful/Italian/oil",
+            "an/Italian/old/beautiful/oil",
+            "an/Italian/beautiful/old/oil",
+            "a/beautiful/old/Italian/oil"
+          ],
+          "answer": 3,
+          "explanation": "The correct order of adjectives is: Determiner (a) → Opinion (beautiful) → Age (old) → Origin (Italian) → Material (oil). Thus, 'Sara admired a beautiful old Italian oil painting in the gallery.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "No professor is as student-friendly as Mr. Jones in our college. Which degree of comparison is used in the above statement?",
+          "options": [
+            "Positive degree",
+            "Comparative Degree",
+            "Superlative Degree",
+            "Both B and A"
+          ],
+          "answer": 0,
+          "explanation": "The positive degree is used here in a comparative sense with the phrase ‘as (quality) as’."
+        },
+
+        {
+          "questionNo": 16,
+          "question": "The nitrogen balloon rose higher and higher in the sky. What is true about the above statement?",
+          "options": [
+            "The ‘second higher’ means higher than the ‘first ‘higher’.",
+            "Higher is the Superlative degree adjective of High",
+            "Both A and B",
+            "None of the above"
+          ],
+          "answer": 0,
+          "explanation": "Here the ‘first higher’ refers to a certain level of height concerning the rising of the nitrogen balloon, the ‘second higher’ refers to a height, higher than that level of height."
+        },
+        {
+          "questionNo": 17,
+          "question": "What is the Superlative degree of the adjective ‘Old’?",
+          "options": ["Oldest", "Eldest", "Both A and B", "None of the Above"],
+          "answer": 2,
+          "explanation": "‘Old’ has dual comparative and superlative forms respectively. ‘Oldest’ indicates the time lapse ‘Eldest’ refers to age with respect to living beings/family members."
+        },
+        {
+          "questionNo": 18,
+          "question": "Few lawyers in our firm are as persevering as Kate. Convert from Positive to Superlative:",
+          "options": [
+            "Kate is the most persevering lawyer in our firm.",
+            "No other lawyer is most persevering as Kate",
+            "Kate is one of the most persevering lawyers in our firm.",
+            "None of the above"
+          ],
+          "answer": 2,
+          "explanation": "Since ‘Few lawyers’ is replaced by ‘one of the most,’ the transformation is not making it clear whether Kate is the best, thus keeping the meaning of the sentence in the positive degree intact in the superlative degree sentence after transformation."
+        },
+        {
+          "questionNo": 19,
+          "question": "Pick the correct transformation of the degree of comparison from comparative to positive in the given sentence. Graphite is more reactive than any other non-metal.",
+          "options": [
+            "Graphite is as reactive as any other non-metal",
+            "No other non-metal is as reactive as graphite",
+            "Graphite is the most reactive non-metal",
+            "Graphite is the reactive non-metal unlike the others"
+          ],
+          "answer": 1,
+          "explanation": "The correct transformation of the given sentence is ‘no other non-metal is as reactive as graphite’. It gives the generalized comparison between ‘Graphite’ and ‘other non-metals’ through the phrase, ‘as reactive as’ in the resulting comparative form. Also, by the phrase ‘no other non-metal’, it gives a stronger comparison between the subject and other non-metals. It replaces the words ‘more reactive than’ in the given sentence."
+        },
+        {
+          "questionNo": 20,
+          "question": "The suffix ‘est’ is used in forming superlative adjectives mostly in case of monosyllabic and disyllabic positive degree adjectives. The above statement is:",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "Only in case of trisyllabic or multisyllabic positive degree adjectives, the given rule doesn't work. Example: most beautiful, most important, most approachable."
+        }
+      ]
+    },
+    {
+      "heading": "PHRASES AND CLAUSES",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Phrases are groups of words in a sentence that can express complete meaning.",
+          "options": ["TRUE", "FALSE"],
+          "answer": 1,
+          "explanation": "Phrases NEVER have a subject-verb combination. Phrases can be made of other words which are not subjects or verbs."
+        },
+        {
+          "questionNo": 22,
+          "question": "A clause is always a complete sentence.",
+          "options": ["TRUE", "FALSE"],
+          "answer": 1,
+          "explanation": "Subordinate clauses are not complete sentences. Principal clauses are always complete sentences."
+        },
+        {
+          "questionNo": 23,
+          "question": "Before applying to Australian schools, I discussed it with my cousin. Which is the subordinate clause in the sentence?",
+          "options": [
+            "Before applying to Australian schools",
+            "Applying to Australian schools",
+            "Discussed it with my cousin",
+            "I discussed it with my cousin"
+          ],
+          "answer": 0,
+          "explanation": "Only option a) starts with a subordinate conjunction. The Principal clause of the sentence is ‘I discussed it with my cousin.’"
+        },
+        {
+          "questionNo": 24,
+          "question": "A dependent clause depends on the Principal phrase of the sentence.",
+          "options": ["TRUE", "FALSE"],
+          "answer": 1,
+          "explanation": "There is nothing called a Principal phrase. The dependent clause in a sentence depends on the Independent/Principal Clause."
+        },
+        {
+          "questionNo": 25,
+          "question": "Buy a croissant. Can the above group of words be a Principal Clause?",
+          "options": ["Yes", "No"],
+          "answer": 0,
+          "explanation": "It is a complete sentence so it can definitely be a Principal Clause."
+        }
+      ]
+    },
+    {
+      "heading": "VERBS",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "Fill in the blank with the correct intransitive verb.\nThe old hiker ______ peacefully on the large rock.",
+          "options": ["sat", "read", "knitted", "wrote"],
+          "answer": 0,
+          "explanation": "The correct intransitive verb to fill in the blank is 'sat.' It describes the action of the old hiker without needing a direct object. The sentence conveys a complete thought without requiring an object to receive the action."
+        },
+        {
+          "questionNo": 27,
+          "question": "Are there any intransitive verbs in the sentence below?\nAfter a tiring day, the busy doctor checked her patient’s medical history thrice.",
+          "options": ["YES", "NO"],
+          "answer": 1,
+          "explanation": "The action verb is 'checked.' It is transitive as it takes the direct object 'her patient’s medical history'. Intransitive verbs don't take objects."
+        },
+        {
+          "questionNo": 28,
+          "question": "Are there any indirect objects in the sentence below? If yes, what is it?\nThe talented artist painted a breathtaking picture for the exhibition.",
+          "options": [
+            "Yes, a breathtaking picture",
+            "Yes, artist",
+            "Yes, picture",
+            "Yes, exhibition"
+          ],
+          "answer": 3,
+          "explanation": "Indirect objects answer the questions 'To whom?', 'To what?', or 'For what?'. Here, 'the exhibition' answers 'for what?' the artist painted a breathtaking picture."
+        },
+        {
+          "questionNo": 29,
+          "question": "The dessert tastes salty! In the above sentence, 'salty' is:",
+          "options": [
+            "adjective",
+            "Predicate Nominative",
+            "Subject complement",
+            "Both A and B"
+          ],
+          "answer": 2,
+          "explanation": "'Salty' is the Predicate adjective complementing the taste of the dessert, thus it is the subject complement."
+        },
+        {
+          "questionNo": 30,
+          "question": "I am Vietnamese and I live in Australia. Are there two linking verbs in the above sentence?",
+          "options": ["Yes", "NO"],
+          "answer": 1,
+          "explanation": "'Live' is an intransitive verb, and 'am' is the linking verb connecting the subject 'I' and the Predicate adjective 'Vietnamese'."
+        },
+        {
+          "questionNo": 31,
+          "question": "May I taste the fudge cake?\nHere, 'Taste' is:",
+          "options": [
+            "linking verb",
+            "helping verb",
+            "action verb",
+            "None of the above"
+          ],
+          "answer": 2,
+          "explanation": "'Taste' is used as an action verb here. It describes the action of tasting the fudge cake. It acts as a sensory verb."
+        },
+        {
+          "questionNo": 32,
+          "question": "Is he awake?\nHere, 'is' is a:",
+          "options": [
+            "linking verb",
+            "ditransitive verb",
+            "action verb",
+            "None of the above"
+          ],
+          "answer": 0,
+          "explanation": "'Is' is the linking verb, helping us to frame a question and ask about the subject’s condition. 'Awake' is an adjective."
+        },
+        {
+          "questionNo": 33,
+          "question": "The rose plant grew tall.\nIn the above sentence, 'grew' is a linking verb.",
+          "options": ["NO", "YES"],
+          "answer": 1,
+          "explanation": "'Grew' is used as a linking verb here. It describes the state of the rose plant, which is 'tall', indicating its condition."
+        }
+      ]
+    },
+    {
+      "heading": "ADVERBS",
+      "questions": [
+        {
+          "questionNo": 34,
+          "question": "Find the adverb and its type in the following sentence.\nWe seldom make Middle - Eastern dishes at home.",
+          "options": [
+            "Middle - Eastern - adverb of choice",
+            "seldom - adverb of frequency",
+            "like - adverb of manner",
+            "food - adverb of quality"
+          ],
+          "answer": 1,
+          "explanation": "In the given sentence, 'seldom' is an adverb of frequency telling us how often Middle-Eastern food was made at home."
+        },
+        {
+          "questionNo": 35,
+          "question": "Choose the word that best completes the sentence -\nSara performed _______ during the championship game.",
+          "options": ["extraordinary", "extraordinarily"],
+          "answer": 1,
+          "explanation": "We need an adverb to describe how Sara performed. 'Extraordinarily' is an adverb that modifies the action of performing. 'Extraordinary' is an adjective."
+        },
+        {
+          "questionNo": 36,
+          "question": "Yesterday I was reading a poem called 'Tomorrow' by a Russian poet. Find the adverb of time in the given sentence.",
+          "options": ["Tomorrow", "Yesterday", "Both A and B", "poet"],
+          "answer": 1,
+          "explanation": "'Yesterday' is the adverb of time, indicating when the action of reading took place. 'Tomorrow' is the name of a poem and not an adverb here."
+        },
+        {
+          "questionNo": 37,
+          "question": "'Similarly' is which kind of adjective?",
+          "options": [
+            "Relative Adverb",
+            "Connecting Adverb",
+            "Conjunctive adverb",
+            "Adverb of degree"
+          ],
+          "answer": 2,
+          "explanation": "'Similarly' functions as a conjunctive adverb to show comparison or contrast. It joins clauses together and indicates a relationship between expressions."
+        },
+        {
+          "questionNo": 38,
+          "question": "The doctor has made an extremely crucial statement about the condition of the patient. Is there any adverb in the sentence above? If yes, select it and its type too.",
+          "options": [
+            "Yes, crucial, adverb of degree",
+            "Yes, extremely, adverb of degree",
+            "No",
+            "Yes, about, adverb of frequency"
+          ],
+          "answer": 1,
+          "explanation": "'Extremely' is the adverb of degree that modifies the adjective 'crucial,' indicating the extent of the statement's importance."
+        },
+        {
+          "questionNo": 39,
+          "question": "Daisy told me the reason why she got into a new school. Is there any adverb in the sentence above?",
+          "options": ["Yes", "No"],
+          "answer": 0,
+          "explanation": "'Why' is a relative adverb in the sentence, introducing the reason behind Daisy getting into a new school."
+        },
+        {
+          "questionNo": 40,
+          "question": "No, don’t go towards the North, walk eastward for 10 minutes. Find the adverbs in the given sentence and their types.",
+          "options": [
+            "Towards, North - adverbs of direction",
+            "North, eastwards - adverbs of place",
+            "Only eastwards - adverbs of direction",
+            "Towards, eastwards - adverbs of direction"
+          ],
+          "answer": 2,
+          "explanation": "'Eastward' is an adverb of direction indicating the direction of walking. 'North' is a proper noun, and 'Towards' is a preposition."
+        }
+      ]
+    },
+    {
+      "heading": "ADJECTIVES VS ADVERBS",
+      "questions": [
+        {
+          "questionNo": 41,
+          "question": "'Nearby' and 'near' both can be used as 'adverbs of place' and adjectives respectively depending on its usage in the sentence.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "Both 'Nearby' and 'near' can act as adverbs when referring to the place of action and as adjectives when referring to the location of a thing or things."
+        },
+        {
+          "questionNo": 42,
+          "question": "(1) Justin woke up early today. <br> (2) Take an early bus to the airport.<br> What is true about the above sentences?",
+          "options": [
+            "In (1) early is an adverb of time modifying the verb ‘woke up’. In (2) Early is an adjective describing a bus that transits passengers during the early hours of the day",
+            "Both A and B",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "'Early' acts as an adverb of time in sentence (1) modifying 'woke up', and as an adjective in sentence (2) describing 'bus'."
+        },
+
+        {
+          "questionNo": 43,
+          "question": "Could you please drive a bit more slowly? Is there any mitigator/intensifier in the sentence above? If yes, select whether it is an intensifier or mitigator and identify it.",
+          "options": [
+            "Yes, Mitigator, a bit",
+            "Yes, Intensifier, a bit",
+            "a Mitigator-No",
+            "an Intensifier-No"
+          ],
+          "answer": 0,
+          "explanation": "When we want to make an adjective or adverb less strong, we use mitigators. 'A bit' is a mitigator as it softens the request for driving slowly."
+        },
+        {
+          "questionNo": 44,
+          "question": "Intensifiers and mitigators can be used with Superlative adjectives and Superlative adverbs.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "explanation": "Only intensifiers are used with Superlative adjectives and adverbs. Mitigators are not used because superlatives express the highest degree/extent, making it illogical to soften them."
+        },
+        {
+          "questionNo": 45,
+          "question": "Complete the sentence with the correct comparative or superlative. State whether it is an adverb or adjective.\nThe team played _________ in the second half compared to the first half.",
+          "options": [
+            "well - adverb",
+            "better - adverb",
+            "better - adjective",
+            "fine - adverb"
+          ],
+          "answer": 1,
+          "explanation": "'Better' is the correct choice as it is a comparative adverb modifying the action 'played'. It shows that the team performed more effectively in the second half compared to the first."
+        }
+      ]
+    }
+  ]
+}
